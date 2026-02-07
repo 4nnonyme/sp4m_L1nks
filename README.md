@@ -1,55 +1,78 @@
-# Spam_LINKs V0.2
-This is tool created to spam link visiting for free
+# 🔗 Spam_LINKs v0.3
 
-++ if you get some errors you can contact me on the link below ++
+A free Python tool created to simulate multiple visits to a specific link.  
+This project is made for **testing, educational, and personal purposes only**.
 
-++ please share my tool to your teams / friends / to use it ++
+---
 
-++ i will add new tool in the next month ++
+## 📖 Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+  - [Termux](#termux)
+  - [Kali Linux](#kali-linux)
+- [Usage](#usage)
+- [Upcoming Updates](#upcoming-updates)
+- [Warnings](#warnings)
+- [Project Status](#project-status)
+- [Credits](#credits)
 
-++++ Thank You ! +++
+---
 
+## 📌 About
+**Spam_LINKs** is a Python-based script that sends repeated visit requests to a given link.  
+It is designed to be **simple, fast, and free**, with no complicated setup.
 
-# Python Spam Script
+If you encounter any issues or errors, you can contact the developer using the link provided in the repository.
 
-## Installation
+---
 
-### Termux
+## ✨ Features
+- 🔁 Multiple link visit requests
+- ⚡ Fast execution
+- 🖥 Simple CLI interface
+- 📱 Works on Termux
+- 🐧 Works on Kali Linux
+- 🧠 Beginner-friendly
+- 📦 Lightweight
 
-bash
+---
 
+## 🧰 Requirements
+- Python 3.x
+- Git
+- Python libraries:
+  - `requests`
+  - `colorama`
+
+---
+
+## ⚙️ Installation
+
+### 📱 Termux
+```bash
 pkg install python
-
 pkg install git
 
 git clone https://github.com/FRn13ds/sp4m_L1nks.git
-
 cd sp4m_L1nks
 
 pip install requests colorama
-
 python script.py
+```
+🚀 Upcoming Updates
 
-### Kali Linux
+⚠️ Currently working on updates
 
-bash
+Planned for the next version:
 
-sudo apt-get install python3
+🖼 Graphical User Interface (GUI)
 
-sudo apt-get install git
+🎛 Better controls & options
 
+🧾 Improved error handling
 
-git clone https://github.com/FRn13ds/sp4m_L1nks.git
+🚄 Performance optimization
 
-
-cd sp4m_L1nks
-
-pip3 install requests colorama
-
-python3 script.py
-
-
-###WORKING ON UPDATES 
-## Usage 
-1 _ paste the LINK you want to spam
-2 _ Choose how many time you want to visite it 
+Stay tuned 👀
